@@ -2,6 +2,7 @@ import './styles.css'
 import '../../fonts/fonts.css' 
 import IMask from 'imask';
 import { useRef, useEffect } from 'react';
+import React from 'react';
 
 const Home = () => {
 
